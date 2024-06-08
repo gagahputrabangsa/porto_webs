@@ -30,10 +30,10 @@ export const links = [
     name: "Experience",
     hash: "#experience",
   },
-  {
-    name: "Contact",
-    hash: "#contact",
-  },
+  // {
+  //   name: "Contact",
+  //   hash: "#contact",
+  // },
 ] as const;
 
 export const experiencesData = [
@@ -46,12 +46,12 @@ export const experiencesData = [
     date: "2021 - Present",
   },
   {
-    title: "Project Pension Fund Website",
+    title: "Curriculum Chair, Google Developer Student Club",
     location: "Grogol, West Jakarta",
     description:
-      "Create a website that is used to record pension fund transactions.",
+      "As the Curriculum Chair at the Google Developer Student Club, Universitas Trisakti, I designed and organized educational content and workshops, coordinated with speakers, and planned events to meet our members' learning needs.",
     icon: React.createElement(FaReact),
-    date: "Jul - Oct 2023",
+    date: "Aug 2023 - Present",
   },
   {
     title: "Data/Software Engineer",
