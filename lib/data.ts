@@ -57,7 +57,7 @@ export const experiencesData = [
     title: "Data/Software Engineer",
     location: "Central Jakarta, DKI Jakarta",
     description:
-      "I participated in the MSIB Batch 6 internship program at the Kementerian Keuangan Republik Indonesia as a Data/Software Engineer. During my internship, I was responsible for developing a legal viewer web application. The project involved using NextJS, and TailwindCSS for front-end development, Prisma for database management, and Typescript for data extraction and modelling.",
+      "I interned as a Data/Software Engineer at Kementerian Keuangan Republik Indonesia through the MSIB Batch 6 program. I developed a legal viewer web application using NextJS, TailwindCSS, Prisma, and TypeScript for front-end and database management, with Python for data extraction and modeling.",
     icon: React.createElement(CgWorkAlt),
     date: "Feb - Jun 2024",
   },
