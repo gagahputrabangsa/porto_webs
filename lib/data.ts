@@ -41,7 +41,7 @@ export const experiencesData = [
     title: "Majoring In IT - Trisakti University",
     location: "Grogol, West Jakarta",
     description:
-      "Studying Information Technology at State Polytechnic of Malang with a high GPA of 3,78.",
+      "Studying  Informatics Engineering at Trisakti University with a high GPA of 3,78.",
     icon: React.createElement(LuGraduationCap),
     date: "2021 - Present",
   },
