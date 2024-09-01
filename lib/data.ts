@@ -67,7 +67,7 @@ export const projectsData = [
   {
     title: "Legal Viewer JDIH Kemenkeu",
     description:
-    "A web application designed for recording and managing pension fund transactions, specifically used by the employees of Universitas Trisakti.",
+    "A web application for helping legal drafter to create a Comparison Matrix",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Node.js","prisma"],
     imageUrl: legalImg,
     },
