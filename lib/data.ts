@@ -51,7 +51,7 @@ export const experiencesData = [
     description:
       "As the Curriculum Chair at the Google Developer Student Club, Universitas Trisakti, I designed and organized educational content and workshops, coordinated with speakers, and planned events to meet our members' learning needs.",
     icon: React.createElement(FaReact),
-    date: "Aug 2023 - Present",
+    date: "Aug 2023 - Aug 2024",
   },
   {
     title: "Data/Software Engineer",
@@ -67,7 +67,7 @@ export const projectsData = [
   {
     title: "Legal Viewer JDIH Kemenkeu",
     description:
-    "A web application designed for recording and managing pension fund transactions, specifically used by the employees of Universitas Trisakti.",
+    "A web application for helping legal drafter to create a Comparison Matrix",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Node.js","prisma"],
     imageUrl: legalImg,
     },
