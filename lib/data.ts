@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import { FiUsers } from "react-icons/fi";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import dapenImg from "@/public/dana_pensiun_1.png";
@@ -66,7 +67,7 @@ export const experiencesData = [
     location: "Grogol, West Jakarta",
     description:
       "Leading to work on programs in the Informatics Engineering Student Association board at Trisakti University, especially in research & Technology fields.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(FiUsers),
     date: "Jul 2024 - Present",
   },
 ] as const;
