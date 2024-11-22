@@ -51,7 +51,7 @@ export const experiencesData = [
     description:
       "As the Curriculum Chair at the Google Developer Student Club, Universitas Trisakti, I designed and organized educational content and workshops, coordinated with speakers, and planned events to meet our members' learning needs.",
     icon: React.createElement(FaReact),
-    date: "Aug 2023 - Aug 2024",
+    date: "Aug 2023 - Jul 2024",
   },
   {
     title: "Data/Software Engineer",
@@ -60,6 +60,14 @@ export const experiencesData = [
       "I interned as a Data/Software Engineer at Kementerian Keuangan Republik Indonesia through the MSIB Batch 6 program. I developed a legal viewer web application using NextJS, TailwindCSS, Prisma, and TypeScript for front-end and database management, with Python for data extraction and modeling.",
     icon: React.createElement(CgWorkAlt),
     date: "Feb - Jun 2024",
+  },
+  {
+    title: "Head of Research & Technology Department",
+    location: "Grogol, West Jakarta",
+    description:
+      "Leading to work on programs in the Informatics Engineering Student Association board at Trisakti University, especially in research & Technology fields.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Jul 2024 - Present",
   },
 ] as const;
 
