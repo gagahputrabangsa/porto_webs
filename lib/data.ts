@@ -77,7 +77,7 @@ export const projectsData = [
     title: "Legal Viewer JDIH Kemenkeu",
     description:
     "A web application for helping legal drafter to create a Comparison Matrix",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Node.js","prisma","Open Search"],
+    tags: ["React", "TypeScript", "Next.js", "Node.js","prisma","Open Search"],
     imageUrl: legalImg,
     },
       {
